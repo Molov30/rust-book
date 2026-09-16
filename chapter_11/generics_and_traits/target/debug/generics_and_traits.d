@@ -1,0 +1,1 @@
+/home/asker/learn/rust-book/chapter_11/generics_and_traits/target/debug/generics_and_traits: /home/asker/learn/rust-book/chapter_11/generics_and_traits/generics_and_traits_lib/src/lib.rs /home/asker/learn/rust-book/chapter_11/generics_and_traits/src/main.rs

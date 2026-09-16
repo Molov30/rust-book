@@ -1,3 +1,7 @@
+mod garden;
+use garden::vegetables::Asparagus;
+
 fn main() {
-    println!("Hello, world!");
+    let a = Asparagus::new();
+    println!("{:?}", a);
 }

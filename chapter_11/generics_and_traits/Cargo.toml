@@ -1,0 +1,13 @@
+[package]
+name = "generics_and_traits"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+generics_and_traits_lib = { path = "generics_and_traits_lib" }
+
+[workspace]
+members = [
+    ".",
+    "generics_and_traits_lib",
+]
